@@ -12,6 +12,7 @@
 		C633BA201D849BA400CAE505 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C633BA1E1D849BA400CAE505 /* Main.storyboard */; };
 		C633BA221D849BA400CAE505 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C633BA211D849BA400CAE505 /* Assets.xcassets */; };
 		C633BA251D849BA400CAE505 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C633BA231D849BA400CAE505 /* LaunchScreen.storyboard */; };
+		C69C25331D84A14D008A45A6 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = C69C25321D84A14D008A45A6 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C633BA211D849BA400CAE505 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C633BA241D849BA400CAE505 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C633BA261D849BA400CAE505 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C69C25321D84A14D008A45A6 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C633BA1C1D849BA400CAE505 /* ViewController.swift */,
 				C633BA1E1D849BA400CAE505 /* Main.storyboard */,
 				C633BA211D849BA400CAE505 /* Assets.xcassets */,
+				C69C25321D84A14D008A45A6 /* pokemon.csv */,
 				C633BA231D849BA400CAE505 /* LaunchScreen.storyboard */,
 				C633BA261D849BA400CAE505 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				C633BA251D849BA400CAE505 /* LaunchScreen.storyboard in Resources */,
 				C633BA221D849BA400CAE505 /* Assets.xcassets in Resources */,
+				C69C25331D84A14D008A45A6 /* pokemon.csv in Resources */,
 				C633BA201D849BA400CAE505 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				C633BA2B1D849BA400CAE505 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
